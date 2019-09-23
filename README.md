@@ -74,5 +74,7 @@ non-linéaire.
 
 -   Livre de R. Levêque,
     <https://babordplus.hosted.exlibrisgroup.com/permalink/f/1iou14g/33PUDB_Alma_Unimarc7158699040004671>
--   Livre de E. Godlewski et P.-A. Raviart (très théorique)
+-   Livre de E. Godlewski et P.-A. Raviart, très théorique, mais
+    accessible en ligne (via Babord+)
+    <https://babordplus.hosted.exlibrisgroup.com/permalink/f/1iou14g/33PUDB_Alma_Unimarc7159464460004671> 
 -   Resources en ligne ?
