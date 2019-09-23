@@ -78,3 +78,5 @@ non-linéaire.
     accessible en ligne (via Babord+)
     <https://babordplus.hosted.exlibrisgroup.com/permalink/f/1iou14g/33PUDB_Alma_Unimarc7159464460004671> 
 -   Resources en ligne ?
+    + diapo/cours G. James: <http://www-ljk.imag.fr/membres/Guillaume.James/transport.pdf>
+    + cours F. Boyer (bcp plus difficile): <https://www.math.univ-toulouse.fr/~fboyer/_media/enseignements/cours_transport_fboyer.pdf>
