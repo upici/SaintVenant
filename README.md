@@ -72,6 +72,7 @@ non-linéaire.
 
 À compléter dans le répertoire [./refs](./refs)
 
--   Livre de R. Levêque
+-   Livre de R. Levêque,
+    <https://babordplus.hosted.exlibrisgroup.com/permalink/f/1iou14g/33PUDB_Alma_Unimarc7158699040004671>
 -   Livre de E. Godlewski et P.-A. Raviart (très théorique)
 -   Resources en ligne ?
