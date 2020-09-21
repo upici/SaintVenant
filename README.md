@@ -29,13 +29,13 @@ Saint-Venant.
 
 1.  Trouver et synthétiser de la documentation sur le type d'équation dont il
     s'agit: l'équation de transport (ou advection) linéaire, à coefficients
-    constant ou a divergence nulle. Comment doit on poser les conditions aux
-    lmites pour cette équation ?
+    constants ou a divergence nulle. Comment doit-on poser les conditions aux
+    limites pour cette équation ?
 2.  Dans le cas 1D avec un champ de vitesse constant, comment écrit-on la
     solution exacte ?
 3.  Trouver de la documentation sur les méthodes de volumes finis pour cette
     équation. Donner quelques exemples de flux numériques.
-4.  Doit-on résoudre un système linéaires ? Comment doit on choisir le pas de
+4.  Doit-on résoudre un système linéaire ? Comment doit-on choisir le pas de
     temps ?
 5.  Dans le cas d'un système d'équations de transport à coefficients constants,
     qu'est-ce qui change dans l'équation ? comment peut-on modifier notre méthode
@@ -57,8 +57,8 @@ l'implémentation des méthodes.
 
 ## Troisième partie : le cas général
 
-On va généraliser le code produit dans la partie précédente au cas 2D et au cas
-non-linéaire.
+On va généraliser le code produit dans la partie précédente au cas 2D et
+au cas non-linéaire.
 
 1.  Déterminer comment le code produit précédant peut se généraliser à la
     dimension 2, dans le cas linéaire. Qu'est-ce qui change ? Quels sont les
